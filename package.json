@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SagarMaan/project-productsManagementGroup13.git"
+    "url": "git+https://github.com/Soumyaranjanp68/Project-5-productsManagement.git"
   },
-  "author": "Soumya Ranjan Pradhan , Vishal Sharma , Abhishek Chauhan , Aditya Prajapati , Sagar Maan",
+  "author": "Soumya Ranjan Pradhan ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SagarMaan/project-productsManagementGroup13/issues"
+    "url": "https://https://github.com/Soumyaranjanp68/Project-5-productsManagement.git"
   },
-  "homepage": "https://github.com/SagarMaan/project-productsManagementGroup13#readme",
+  "homepage": "https://https://github.com/Soumyaranjanp68/Project-5-productsManagement.git",
   "description": "",
   "dependencies": {
     "aws-sdk": "^2.1307.0",
